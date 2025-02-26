@@ -7,5 +7,3 @@ xhofe/alist:latest
 portainer/portainer-ce
 dockerproxy.com/dezhao/lanraragi_cn
 gotson/komga
-ghcr.io/immich-app/immich-server
-ghcr.io/immich-app/immich-machine-learning
